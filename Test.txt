@@ -1,0 +1,7 @@
+Default.rdp
+        Fax/
+        Preferences/
+        ProPresenter/
+        ProPresenter_/
+        Scanned Documents/
+        desktop.ini
